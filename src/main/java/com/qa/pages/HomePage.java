@@ -6,5 +6,9 @@ public class HomePage {
 	{
 		System.out.println("Home Page");
 	}
+	public void homeSet()
+	{
+		System.out.println("Home Set");
+	}
 
 }
